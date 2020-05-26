@@ -1,0 +1,10 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/journey-a",
+  "lib": {
+    "entryFile": "./public_api.ts",
+    "umdModuleIds": {
+      "mjv-component-library": "mjv-component-library"
+    }
+  }
+}
